@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Diego Quissi
+# 👨🏻‍💻 Diego Quissi
 
-**`Desenvolvedora FullStack`**
+**`Assistente de Operações`**
 
 Me chamo Diego de Oliveira Quissi Queiroz, tenho 26 anos e sou natural de Sao Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio (EAD). Sou apaixonado por tecnologia
 
