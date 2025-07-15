@@ -1,10 +1,22 @@
 # 👨🏻‍💻 Diego Quissi
 
-**`Assistente de Operações`**
+**`Assistente de Operações | Estudante de Tecnologia`**
 
-Me chamo Diego de Oliveira Quissi Queiroz, tenho 26 anos e sou natural de Sao Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio (EAD). Sou apaixonado por tecnologia
+Me chamo Diego de Oliveira Quissi Queiroz, tenho 26 anos, casado e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio (EAD). Sou apaixonado por tecnologia, porém, não atuei diremanente na área. Em toda minha trajetória profissional fui responsável pelo atendimento, desde operador de Call Center à BackOffice.
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+Atuei nas seguintes empresas: Carrefour, Dry Company S.A, Atento e C6 Bank. Minha mais recente experiência foi como Assistente Operações no segmento de produtos financeiros através do C6 Bank. Sendo responsável, pelo atendimento do pós-venda das carteiras de Empréstimo com Garantia de Veículos e Financiamento, tendo como rotina:
+
+- Automação de demandas e acompanhamento de RPA;
+- Resolução das reclamações vazadas aos Canais Críticos e Regulatórios: Bacen, Procon, Consumidor.gov, Reclame Aqui e Ouvidoria;
+- Processos de garantia: Gravame;
+- - Cessão de Direitos e Substituição de Garantia;
+- Insumos para defesa dos processos de Ação Cível;
+- Mapear e monitorar os atendimentos N1 e processos do BackOffice para garantir uma
+melhor experiência ao cliente;
+- Apoio e atendimento ao time comercial (CORBAN, Gerente de Negócios e Plataforma);
+- Alinhamento com outras áreas em prol de uma melhoria contínua;
+
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -19,15 +31,16 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens e Ferramentas
 
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq-512x512.png" />
 <img align="left" alt="Salesforce" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLvIUB7aXda8v7IOy1AOihcomVzZmHSOnWxxN9LENODs1MfIEkvsVB8T2FpBs73v2-_s&usqp=CAU" />
 <img align="left" alt="PowerAutomate" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Office365" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Office-icon.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
 
 #
 <!--
