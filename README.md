@@ -40,10 +40,13 @@ melhor experiência ao cliente;
 <img align="left" alt="Office365" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/blackvariant/button-ui-ms-office-2016/512/Office-icon.png" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
+---
+
 
 ### 📊 Estatísticas
 
-<p>
+
+ <p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -52,11 +55,4 @@ melhor experiência ao cliente;
     src="https://github-readme-stats.vercel.app/api?username=diegoquissi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoquissi=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+---
