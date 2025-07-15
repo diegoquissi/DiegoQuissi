@@ -21,6 +21,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Salesforce" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLvIUB7aXda8v7IOy1AOihcomVzZmHSOnWxxN9LENODs1MfIEkvsVB8T2FpBs73v2-_s&usqp=CAU" />
 <img align="left" alt="PowerAutomate" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
