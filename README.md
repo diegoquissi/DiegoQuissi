@@ -55,4 +55,8 @@ melhor experiência ao cliente;
     src="https://github-readme-stats.vercel.app/api?username=diegoquissi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+
 ---
+
+Sou apaixonado pela Tecnologia, embora não atuei na área diretamente, venho buscando desafios e oportunidades de embarcar com tudo!
+Corriqueiramente estou estudando e aprimorando as ferramentas e linguagens a qual tenho domínio. E sei que logo estarei contribuindo com meu conhecimento.
