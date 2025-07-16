@@ -56,7 +56,7 @@ melhor experiência ao cliente;
   />
 
 
----
 
-Sou apaixonado pela Tecnologia, embora não atuei na área diretamente, venho buscando desafios e oportunidades de embarcar com tudo!
-Corriqueiramente estou estudando e aprimorando as ferramentas e linguagens a qual tenho domínio. E sei que logo estarei contribuindo com meu conhecimento.
+
+**`Sou apaixonado pela Tecnologia, embora não atuei na área diretamente, venho buscando desafios e oportunidades de embarcar com tudo!
+Corriqueiramente estou estudando e aprimorando as ferramentas e linguagens a qual tenho domínio. E sei que logo estarei contribuindo com meu conhecimento.`**
